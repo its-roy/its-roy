@@ -5,5 +5,9 @@
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/yep_its_roy/)
 [<img align="left" alt="reddit | reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />](https://www.reddit.com/user/yep_its_roy/)
 [<img align="left" alt="spotify | spotify" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />](https://open.spotify.com/user/317c6amowrjrjcwrcm7ztakidbfi)
+[<img align="left" alt="steam | steam" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/steam.svg" />](https://steamcommunity.com/profiles/76561198920392961)
+[<img align="left" alt="twitch | twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/yep_its_roy)
+[<img align="left" alt="github | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/its-roy)
+[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtu.be/dQw4w9WgXcQ)
 
 <br />
