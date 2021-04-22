@@ -1,11 +1,11 @@
 
-Hard-working
-Passionate
-Honest
-Enthusiastic
-Goal-driven
-Visionary
-None of the above
+Hard-working \n
+Passionate \n
+Honest \n
+Enthusiastic \n
+Goal-driven \n
+Visionary \n
+None of the above \n
 
 
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/yep_its_roy)
