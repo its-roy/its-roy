@@ -17,5 +17,7 @@
 [<img align="left" alt="twitch | twitch" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />](https://www.twitch.tv/yep_its_roy)
 [<img align="left" alt="github | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />](https://github.com/its-roy)
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />](https://youtu.be/dQw4w9WgXcQ)
+[<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/1password.svg" />](https://youtu.be/dQw4w9WgXcQ)
+
 
 <br />
