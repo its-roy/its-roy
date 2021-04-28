@@ -32,7 +32,7 @@
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftedge.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />](https://youtu.be/dQw4w9WgXcQ)
-[<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fifa.svg" />](https://youtu.be/dQw4w9WgXcQ)
+[<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/icloud.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />](https://youtu.be/dQw4w9WgXcQ)
 
 
