@@ -26,14 +26,14 @@
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/epicgames.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xbox.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation.svg" />](https://youtu.be/dQw4w9WgXcQ)
-[<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation2.svg" />](https://youtu.be/dQw4w9WgXcQ)
-[<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation3.svg" />](https://youtu.be/dQw4w9WgXcQ)
-[<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/playstation4.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fifa.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/brave.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlechrome.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/microsoftedge.svg" />](https://youtu.be/dQw4w9WgXcQ)
 [<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/adobephotoshop.svg" />](https://youtu.be/dQw4w9WgXcQ)
+[<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fifa.svg" />](https://youtu.be/dQw4w9WgXcQ)
+[<img align="left" alt=". | ." width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/firefox.svg" />](https://youtu.be/dQw4w9WgXcQ)
+
 
 <br />
